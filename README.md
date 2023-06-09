@@ -20,12 +20,12 @@ Here are some ideas to get you started:
 <br>
 
 
-<br>
-
 ## 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
 
-<br>
+![visitors](https://visitor-badge.glitch.me/badge?page_id=weizhouapache)
 
+<br>
+-->
 @weizhouapache
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=weizhouapache&show_icons=true&hide_border=true&count_private=true&show_icons=true&layout=compact) ![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=weizhouapache&show_icons=true&hide_border=true&count_private=true&show_icons=true&layout=compact)
