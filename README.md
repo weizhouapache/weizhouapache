@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on [Apache Cloudstack](https://github.com/apache/cloudstack) and [CAPC](https://github.com/weizhouapache/cluster-api-provider-cloudstack)
+- 🔭 I’m currently working on [Apache Cloudstack](https://github.com/apache/cloudstack)
 - ⚡ My hobby projects: [docker-mariadb-cluster](https://github.com/ustcweizhou/docker-mariadb-cluster), [docker-cloudstack-builder](https://github.com/weizhouapache/docker-cloudstack-builder), [docker-systemd](https://github.com/weizhouapache/docker-systemd)
 
 <!--
